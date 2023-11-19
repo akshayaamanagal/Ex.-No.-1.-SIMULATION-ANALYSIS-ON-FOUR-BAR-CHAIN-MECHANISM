@@ -53,10 +53,9 @@
 
 
 ## Output:
-
-
-### Name:
-### Register Number: 
+![Ex. No. 1.-SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM](1.png)
+### Name: AKSHAYAA M
+### Register Number: 212222230009 
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
