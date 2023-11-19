@@ -1,8 +1,8 @@
 # Ex. No. 1.-SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+###  DATE: 
 
-## AIM:
+# AIM:
 
 ###   To determine & simulate the displacement & velocity analysis for the given four bar chain mechanism. 
 
@@ -28,7 +28,7 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
 
-###   This value of VBA is used to decide the scale for the velocity diagram 
+##  This value of VBA is used to decide the scale for the velocity diagram 
 ###   Let us construct the velocity diagram taking a scale: 
 ###   0.3141 m/s = 60 mm (say) 
 ###   1. The fixed link AD, appears as a point in the velocity diagram 
@@ -40,10 +40,10 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/cb44fabe-6e16-4550-a2ec-4ee0f4cb6774)
 
-###   1. First measure cd from velocity diagram  
-###   2. Now, Calculate VCd using the scale of the diagram 
-###   3. Finally, calculate ωcd from the relation v = rω 
-###   Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
+ 1. First measure cd from velocity diagram  
+ 2. Now, Calculate VCd using the scale of the diagram 
+ 3. Finally, calculate ωcd from the relation v = rω 
+ 4.  Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/97627fa4-0d38-412c-8745-082bd7b85299)
 
@@ -58,4 +58,4 @@
 ### Register Number: 212222230009 
 
 ## RESULT:
- ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+ Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
